@@ -1,5 +1,4 @@
 <h1> Halo semuanya…</h1>
-<p> Perkenalkan nama saya Adam Fachreza Utama. Saya seorang Web Developer dari kota Jakarta. Saat ini saya sedang belajar menjadi Mobile App Developer dengan Flutter</p>
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3)
@@ -25,4 +24,4 @@
 </tr>
 </table>
 
-<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=adamfachreza&theme=synthwave-84)](https://github.com/adamfachreza/github-readme-activity-graph) -->
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=adamfachrezautama&theme=synthwave-84)](https://github.com/adamfachrezautama/github-readme-activity-graph)
