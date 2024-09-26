@@ -13,7 +13,7 @@
 <tr>
 <td>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamfachrezautama&show_icons=true&theme=synthwave)
+![](https://github-readme-stats.vercel.app/api?username=adamfachrezautama&show_icons=true&theme=synthwave)
 
 </td>
 <td>
@@ -24,4 +24,4 @@
 </tr>
 </table>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=adamfachrezautama&theme=synthwave-84)](https://github.com/adamfachrezautama/github-readme-activity-graph)
+[![](https://activity-graph.herokuapp.com/graph?username=adamfachrezautama&theme=synthwave-84)](https://github.com/adamfachrezautama/github-readme-activity-graph)
